@@ -1,2 +1,2 @@
 # C_programming
-This is assignment 
+This is My college assignments 
